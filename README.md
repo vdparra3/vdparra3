@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vdparra3
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning computer architecture
+- 🌱 I’m currently learning computer architecture and cybersecurity concepts
 - 💞️ I’m looking to collaborate on CTF's
 - 📫 How to reach me www.linkedin.com/in/vdparra
 
